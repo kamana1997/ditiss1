@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$USER" "$UID"
+echo "$USER" "$UID" "$SHELL"
